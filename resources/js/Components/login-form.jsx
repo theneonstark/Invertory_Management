@@ -59,7 +59,7 @@ export function LoginForm({ className, ...props }) {
       <Card className="w-full max-w-md shadow-2xl rounded-xl border border-gray-200 bg-white">
         <CardHeader className="text-center p-8 border-b border-gray-200">
           <CardTitle className="text-3xl font-bold text-gray-800">
-            Login to Aryan Event Admin
+            Login to IMS Admin
           </CardTitle>
           <CardDescription className="text-gray-600 mt-2">
             Enter your credentials to access the admin panel
